@@ -18,9 +18,9 @@ Datafile : data1.Rdata, data2.RData
 
 ```
 
-![data1](data1_plot.png)
+<img src="data1_plot.png" width="200">
 
-![data2](data2_plot.png)
+<img src="data2_plot.png" width="200">
 
 
 ### R Code:
