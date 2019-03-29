@@ -18,6 +18,11 @@ Datafile : data1.Rdata, data2.RData
 
 ```
 
+![data1](data1_plot.png)
+
+![data2](data2_plot.png)
+
+
 ### R Code:
 ```r
 
