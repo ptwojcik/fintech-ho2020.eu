@@ -1,0 +1,18 @@
+Name of Quantlet : fintech-svm
+
+Published in : fintech-ho2020.eu
+
+Description : 'Shows sample application of Support Vector Machine on two sets of artificial data.'
+
+Keywords : 
+- SVM
+- linear kernel
+- radial basis kernel
+- parameter tuning
+- cross-validation
+
+Author : Piotr Wójcik
+
+Submitted : Fri, March 29th by Piotr Wójcik
+
+Datafile : data1.Rdata, data2.RData
